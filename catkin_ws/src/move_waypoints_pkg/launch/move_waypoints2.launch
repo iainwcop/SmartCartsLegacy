@@ -1,3 +1,0 @@
-<launch>
-	<node pkg="move_waypoints_pkg" type="move_waypoints2.py" name="move_waypoints" output="screen"/>
-</launch>
